@@ -19,3 +19,4 @@ Announcement script is a simple, but efficient Announcement script for your serv
 
 ## Screenshots
 ![Screenshots](https://i.imgur.com/5lEnSdU.png)
+![Screenshots](https://i.imgur.com/IlRtkQx.png)
