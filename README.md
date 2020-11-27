@@ -1,6 +1,7 @@
 # Server-announcement-script
 
-This Script is created by myself, it allows you to do /announce message in your fiveM server to make announcements
+## What is it?
+Announcement script is a simple, but efficient Announcement script for your server and is really simple to configure to your server!
 
 ## Commands
 ``/announce <message>``
