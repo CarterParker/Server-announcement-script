@@ -2,10 +2,10 @@
 
 This Script is created by myself, it allows you to do /announce message in your fiveM server to make announcements
 
-# Commands
+## Commands
 ``/announce <message>``
 
-# How to install?
+## How to install?
 
 ```
 1. Grab the announce folder and drag it into your resource folder.
