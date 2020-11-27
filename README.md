@@ -1,5 +1,7 @@
 # Server-announcement-script
 
+## Join our Discord
+https://discord.gg/4A6Qdp9
 ## What is it?
 Announcement script is a simple, but efficient Announcement script for your server and is really simple to configure to your server!
 
