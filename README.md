@@ -13,3 +13,5 @@ Announcement script is a simple, but efficient Announcement script for your serv
 2. Go to Server.cfx and type start announce
 3. Start your server and it should work!
 ```
+
+![alt text](http://url/to/img.png)
