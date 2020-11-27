@@ -8,5 +8,7 @@ This Script is created by myself, it allows you to do /announce message in your 
 # How to install?
 
 ```
-Grab the announce folder and drag it into your resource folder for your fiveM server and then go to server.cfx and do ``start announce`` 
+1. Grab the announce folder and drag it into your resource folder.
+2. Go to Server.cfx and type start announce
+3. Start your server and it should work!
 ```
