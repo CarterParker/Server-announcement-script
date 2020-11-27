@@ -14,4 +14,6 @@ Announcement script is a simple, but efficient Announcement script for your serv
 3. Start your server and it should work!
 ```
 
+
+## Screenshots
 ![Screenshots](https://i.imgur.com/5lEnSdU.png)
